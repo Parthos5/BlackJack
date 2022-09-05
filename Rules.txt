@@ -1,0 +1,5 @@
+1.Sum of drawn cards should be 21
+2.If sum of cards is less than 21,you can draw a card
+3.If sum of cards is more than 21,you lose
+4.20$ to start a game,get back 40$ if you win
+5.10$ to draw a card,winning amount stays the same
